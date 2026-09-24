@@ -1,0 +1,5 @@
+Bus,v_nom,tag_substation,tag_area,lon,lat,country,x,y,control,generator,carrier,v_mag_pu_set,v_mag_pu_min,v_mag_pu_max,type,unit,sub_network
+ZM0 0,330.0,transmission,0.0,28.514363636363637,-13.512545454545455,ZM,28.514363636363637,-13.512545454545455,Slack,ZM0 0 coal,AC,1.0,0.0,inf,,,
+ZM0 1,330.0,transmission,0.0,27.626734375,-15.9409,ZM,27.626734375,-15.9409,PQ,,AC,1.0,0.0,inf,,,
+ZM0 2,330.0,transmission,0.0,31.071350000000002,-12.56381,ZM,31.071350000000002,-12.56381,PQ,,AC,1.0,0.0,inf,,,
+ZM0 3,330.0,transmission,0.0,25.855833333333333,-12.213799999999999,ZM,25.855833333333333,-12.213799999999999,PQ,,AC,1.0,0.0,inf,,,

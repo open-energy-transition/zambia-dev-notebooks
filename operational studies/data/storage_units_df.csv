@@ -1,0 +1,4 @@
+StorageUnit,carrier,bus,p_nom,max_hours,marginal_cost,p_min_pu,efficiency_dispatch,efficiency_store,cyclic_state_of_charge,control,p_nom_opt,type,p_nom_mod,p_nom_extendable,p_nom_min,p_nom_max,p_max_pu,p_set,q_set,sign,spill_cost,marginal_cost_quadratic,marginal_cost_storage,capital_cost,build_year,lifetime,state_of_charge_initial,state_of_charge_initial_per_period,state_of_charge_set,cyclic_state_of_charge_per_period,standing_loss,inflow
+ZM0 0 hydro,hydro,ZM0 0,24.0,392.7,1.059920077467376,0.0,0.9,0.0,True,,24.0,,0.0,False,0.0,inf,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,inf,0.0,False,,True,0.0,0.0
+ZM0 1 hydro,hydro,ZM0 1,2972.0,4223.672207267833,1.0607926309541245,0.0,0.9,0.0,True,,2972.0,,0.0,False,0.0,inf,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,inf,0.0,False,,True,0.0,0.0
+ZM0 2 hydro,hydro,ZM0 2,37.0,6.0,1.0593802572093636,0.0,0.9,0.0,True,,37.0,,0.0,False,0.0,inf,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,inf,0.0,False,,True,0.0,0.0
