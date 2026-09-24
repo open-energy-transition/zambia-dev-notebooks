@@ -1,0 +1,5 @@
+Generator,carrier,bus,p_nom,p_nom_min,p_nom_max,efficiency,marginal_cost,capital_cost,build_year,lifetime,weight,control,p_max_pu,p_nom_opt,type,p_nom_mod,p_nom_extendable,p_min_pu,p_set,q_set,sign,marginal_cost_quadratic,committable,start_up_cost,shut_down_cost,stand_by_cost,min_up_time,min_down_time,up_time_before,down_time_before,ramp_limit_up,ramp_limit_down,ramp_limit_start_up,ramp_limit_shut_down
+ZM0 0 coal,coal,ZM0 0,30.0,30.0,30.0,0.356,4.009920077467376,71141.96200071917,2015,45.0,1.0,Slack,1.0,30.0,,0.0,False,0.0,0.0,0.0,1.0,0.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0
+ZM0 0 solar,solar,ZM0 0,34.0,34.0,85573.79691144041,1.0,0.00941240930980738,71739.28845241723,0,25.0,14177.845359003328,,0.9999999999999999,34.0,,0.0,False,0.0,0.0,0.0,1.0,0.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0
+ZM0 1 coal,coal,ZM0 1,300.0,300.0,300.0,0.356,4.00913850281052,71141.96200071917,2016,45.0,1.0,,1.0,300.0,,0.0,False,0.0,0.0,0.0,1.0,0.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0
+ZM0 1 solar,solar,ZM0 1,88.0,88.0,264649.50513051683,1.0,0.00910228999189938,71739.28845241723,0,25.0,45070.23050853939,,1.0,88.0,,0.0,False,0.0,0.0,0.0,1.0,0.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0
